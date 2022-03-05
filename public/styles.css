@@ -1,0 +1,8 @@
+#container {
+    display: grid;
+    grid-template-columns: repeat(20, 25px);
+    grid-template-rows: repeat(20, 25px);
+}
+#container div {
+    background: darkcyan;
+}
